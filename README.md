@@ -1,6 +1,6 @@
 ## Hi there! I'm Pedro 😀
 
-* 📚 - Currently At College - System Analysis and Development.
+* 📚 - Currently at College - System Analysis and Development.
 * ♦ - I Speak English and Portuguese.
 
 <div>
