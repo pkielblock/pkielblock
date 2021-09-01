@@ -1,7 +1,7 @@
-# Hi there! I'm Pedro 😀
+# Hi there!
 
 ## About Me
-
+* 😀 - I'm 18 years old.
 * 📚 - Currently at College - System Analysis and Development.
 * ♦ - I Speak English and Portuguese.
 
