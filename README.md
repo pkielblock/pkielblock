@@ -1,7 +1,7 @@
 ## Hi there! I'm Pedro 😀
 
-* 📚 - Currently at College - System Analysis and Development. *
-* ♦ - I Speak English and Portuguese. *
+* 📚 - Currently at College - System Analysis and Development.
+* ♦ - I Speak English and Portuguese.
 
 <div>
   <a href="https://github.com/pkielblock">
