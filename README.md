@@ -1,5 +1,7 @@
 # Hi there!
 
+* 💎 - My name is Pedro, welcome to my GitHub profile!
+
 ## About Me
 * 😀 - I'm 18 years old.
 * 📚 - Currently at College - System Analysis and Development.
