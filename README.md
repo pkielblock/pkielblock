@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/pkielblock">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkielblock&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkielblock&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ## Social Media
