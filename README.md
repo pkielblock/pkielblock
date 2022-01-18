@@ -1,6 +1,6 @@
 # Hi there!
 
-* 💎 - Hi, I'm Pedro, welcome to my GitHub profile!
+* 💎 - Hi, I'm Pedro!
 
 ## About Me
 * 😀 - I'm 19 years old.
