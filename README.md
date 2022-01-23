@@ -1,11 +1,11 @@
 # Hi there!
 
-* 💎 - Hi, I'm Pedro!
+* I'm Pedro!
 
 ## About Me
-* 😀 - I'm 19 years old.
-* 📚 - Currently at College - System Analysis and Development.
-* ♦ - I Speak English and Portuguese.
+* I'm 19 years old.
+* Currently at College - System Analysis and Development.
+* I Speak English and Portuguese.
 
 <div>
   <a href="https://github.com/pkielblock">
