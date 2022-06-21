@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* ▶️ I'm Pedro, a back-end developer. Currently looking for a internship in the back-end area!
+* ▶️ I'm Pedro, a back-end developer. Currently looking for an internship in the back-end area!
 
 ## About Me
 * ♦️ I'm 19 years old.
