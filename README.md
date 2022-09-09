@@ -3,7 +3,7 @@
 * ▶️ I'm Pedro, a back-end developer. Currently Intern @ RethinkingWorks!
 
 ## About Me
-* ♦️ I'm 19 years old.
+* 👦 I'm 19 years old.
 * 🎓 Major: System Analysis and Development.
 * 📚 I Speak English and Portuguese.
 
