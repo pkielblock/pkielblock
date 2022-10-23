@@ -4,7 +4,7 @@
 
 ## About Me
 * 👦 I'm 19 years old.
-* 🎓 Major: System Analysis and Development.
+* 🎓 Major: Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
 
 <div>
