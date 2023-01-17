@@ -7,6 +7,23 @@
 * 🎓 Major: Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
 
+## PC Specs 🖥️
+* CPU: Ryzen 5 4500
+* RAM: 32GB 3200MHz (2x16)
+* GPU: RX 580 8GB
+* SSD: 256GB SATA
+* HD: 1TB
+
+## Peripherals ⌨️
+* HEADSET: Evolut Têmis EG-301
+* KEYBOARD: Epomaker SK61 With Mods
+* MOUSE: Logitech G203 LightSYNC
+* MOUSEPAD: Fortrek Speed Large
+
+## Monitors 🖵
+* MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
+* MONITOR 2: AOC 1619SWA 15,6'' 1366x768 60hz 
+
 <div>
   <a href="https://github.com/pkielblock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
