@@ -13,6 +13,7 @@
 * GPU: RX 580 8GB
 * SSD: 256GB SATA
 * HD: 1TB
+* OS: Always Switching Between Arch and Windows
 
 ## Peripherals ⌨️
 * HEADSET: Evolut Têmis EG-301
