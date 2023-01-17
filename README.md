@@ -24,6 +24,7 @@
 * MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
 * MONITOR 2: AOC 1619SWA 15,6'' 1366x768 60hz 
 
+## Stats
 <div>
   <a href="https://github.com/pkielblock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
