@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* ▶️ I'm Pedro, a back-end developer. Currently Intern @ RethinkingWorks!
+* ▶️ I'm Pedro, a student/developer. Currently Intern @ RethinkingWorks!
 
 ## About Me 👨‍💻
 * 👦 I'm 20 years old.
