@@ -2,7 +2,7 @@
 
 * ▶️ I'm Pedro, a back-end developer. Currently Intern @ RethinkingWorks!
 
-## About Me
+## About Me 👨‍💻
 * 👦 I'm 20 years old.
 * 🎓 Major: Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkielblock&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> --->
-## Find Me
+## Find Me 🌐
 <div>
   <a href="https://www.facebook.com/pedrokielblock/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pkielblock/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
