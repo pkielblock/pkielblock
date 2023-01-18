@@ -25,15 +25,13 @@
 * MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
 * MONITOR 2: AOC 1619SWA 15,6'' 1366x768 60hz 
 
-## Stats
+<!--- ## Stats
 <div>
   <a href="https://github.com/pkielblock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkielblock&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ## Find Me
-  
+</div> --->
+## Find Me
 <div>
   <a href="https://www.facebook.com/pedrokielblock/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pkielblock/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
