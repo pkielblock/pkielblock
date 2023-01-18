@@ -2,28 +2,28 @@
 
 * ▶️ I'm Pedro, a student/developer. Currently Intern @ RethinkingWorks!
 
-## About Me 👨‍💻
+## About Me 🧑🏻‍💻
 * 👦 I'm 20 years old.
 * 🎓 Major: Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
 
-## PC Specs 🖥️
-* CPU: Ryzen 5 4500
-* RAM: 32GB 3200MHz (2x16)
-* GPU: RX 580 8GB
-* SSD: 256GB SATA
-* HD: 1TB
-* OS: Always Switching Between Arch and Windows
+## PC Specs 🧑🏻‍💻
+* 🖥️ CPU: Ryzen 5 4500
+* ⚡ RAM: 32GB 3200MHz (2x16)
+* 🕹️ GPU: RX 580 8GB
+* ☢️ SSD: 256GB SATA
+* 💾 HD: 1TB
+* 🐧 OS: Always Switching Between Arch and Windows
 
 ## Peripherals ⌨️
-* HEADSET: Evolut Têmis EG-301
-* KEYBOARD: Epomaker SK61 With Mods
-* MOUSE: Logitech G203 LightSYNC
-* MOUSEPAD: Fortrek Speed Large
+* 🎧 HEADSET: Evolut Têmis EG-301
+* ⌨️ KEYBOARD: Epomaker SK61 With Mods
+* 🖱️ MOUSE: Logitech G203 LightSYNC
+* 🔲 MOUSEPAD: Fortrek Speed Large
 
-## Monitors 🖵
-* MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
-* MONITOR 2: AOC 1619SWA 15,6'' 1366x768 60hz 
+## Monitors 🖥️
+* 🖥️ MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
+* 🖥️ MONITOR 2: AOC 1619SWA 15,6'' 1366x768 60hz 
 
 <!--- ## Stats
 <div>
