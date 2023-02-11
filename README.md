@@ -16,7 +16,7 @@
 * 🐧 OS: Always Switching Between Arch and Windows
 
 ## Peripherals ⌨️
-* 🎧 HEADSET: Evolut Têmis EG-301
+* 🎧 HEADSET: HyperX Cloud Stinger Core
 * ⌨️ KEYBOARD: Epomaker SK61 With Mods
 * 🖱️ MOUSE: Logitech G203 LightSYNC
 * 🔲 MOUSEPAD: Fortrek Speed Large
