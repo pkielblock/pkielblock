@@ -17,9 +17,8 @@
 
 ## Peripherals ⌨️
 * 🎧 HEADSET: HyperX Cloud Stinger Core
-* ⌨️ KEYBOARD: Epomaker SK61 With Mods
-* 🖱️ MOUSE: Logitech G203 LightSYNC
-* 🔲 MOUSEPAD: Fortrek Speed Large
+* ⌨️ KEYBOARD: Epomaker SK61 Modded
+* 🖱️ MOUSE: Delux M800 Pro
 
 ## Monitors 🖥️
 * 🖥️ MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
