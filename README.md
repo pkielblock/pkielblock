@@ -33,4 +33,5 @@
 ## Find Me 🌐
 <div>
   <a href="https://www.linkedin.com/in/pedro-kielblock-b541aa1a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://beacons.ai/pkielblock" target="_blank"><img src="https://img.shields.io/badge/-FIND--ME-lightgrey?style=for-the-badge&logo=pinboard&logoColor=white%22" target="_blank"></a>
 </div>
