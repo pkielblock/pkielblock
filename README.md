@@ -11,7 +11,7 @@
 * 🖥️ CPU: Ryzen 5 4500
 * ⚡ RAM: 32GB 3200MHz (2x16)
 * 🕹️ GPU: RX 580 8GB
-* ☢️ SSD: 256GB SATA
+* ☢️ SSD: 1TB NVME
 * 💾 HD: 1TB
 * 🐧 OS: Always Switching Between Arch and Windows
 
