@@ -1,10 +1,10 @@
 # Hi there 👋
 
-* ▶️ I'm Pedro, a student/developer. Currently Intern @ RethinkingWorks!
+* ▶️ I'm Pedro, a back-end developer. Currently Systems Analyst @ RethinkingWorks!
 
 ## About Me 🧑🏻‍💻
 * 👦 I'm 21 years old.
-* 🎓 Major: Analysis and Systems Development.
+* 🎓 Graduated @ Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
 
 ## PC Specs 🧑🏻‍💻
@@ -13,23 +13,18 @@
 * 🕹️ GPU: RX 580 8GB
 * ☢️ SSD: 1TB NVME
 * 💾 HD: 1TB
-* 🐧 OS: Always Switching Between Arch and Windows
+* 🐧 OS: Windows 11 + WSL2 with Ubuntu
 
 ## Peripherals ⌨️
-* 🎧 HEADSET: HyperX Cloud Stinger Core
+* 🎧 EARPHONE: 7hz Salnotes Zero
+* 🎙️ MICROPHONE: BM800
 * ⌨️ KEYBOARD: Epomaker SK61 Modded
 * 🖱️ MOUSE: Delux M800 Pro
 
 ## Monitors 🖥️
 * 🖥️ MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
-* 🖥️ MONITOR 2: AOC 1619SWA 15,6'' 1366x768 60hz 
+* 🖥️ MONITOR 2: Dell E157FPC 15'' 1024x768 60hz 
 
-<!--- ## Stats
-<div>
-  <a href="https://github.com/pkielblock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkielblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkielblock&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> --->
 ## Find Me 🌐
 <div>
   <a href="https://www.linkedin.com/in/pedro-kielblock-b541aa1a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
