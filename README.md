@@ -4,7 +4,7 @@
 
 ## About Me 🧑🏻‍💻
 * 👦 I'm 21 years old.
-* 🎓 Graduated @ Analysis and Systems Development.
+* 🎓 Technical in Systems Development and Graduated in Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
 
 ## PC Specs 🧑🏻‍💻
