@@ -20,6 +20,7 @@
 * 🎙️ MICROPHONE: BM800
 * ⌨️ KEYBOARD: Epomaker SK61 Modded
 * 🖱️ MOUSE: Delux M800 Pro
+* ⬜ MOUSEPAD: HyperX Fury S 450x400mm
 
 ## Monitors 🖥️
 * 🖥️ MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
