@@ -7,6 +7,9 @@
 * 🎓 Technical in Systems Development and Graduated in Analysis and Systems Development.
 * 📚 I Speak English and Portuguese.
 
+## Website 🌐
+ * You can find my website here 👉 [kielblock.dev](https://kielblock.dev/)
+
 ## PC Specs 🧑🏻‍💻
 * 🖥️ CPU: Ryzen 5 4500
 * ⚡ RAM: 32GB 3200MHz (2x16)
@@ -25,8 +28,3 @@
 ## Monitors 🖥️
 * 🖥️ MONITOR 1: Mancer Horizon Z21 21.5'' 1920x1080 75hz 
 * 🖥️ MONITOR 2: Dell E157FPC 15'' 1024x768 60hz 
-
-## Find Me 🌐
-<div>
- <a href="https://kielblock.dev/" target="_blank"><img src="https://img.shields.io/badge/-FIND--ME-lightgrey?style=for-the-badge&logo=pinboard&logoColor=white%22" target="_blank"></a>
-</div>
