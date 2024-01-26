@@ -16,7 +16,7 @@
 * 🕹️ GPU: RX 580 8GB
 * ☢️ SSD: 1TB NVME
 * 💾 HD: 1TB
-* 🐧 OS: Windows 11 + WSL2 with Ubuntu
+* 🐧 OS: Arch Linux + GNOME
 
 ## Peripherals ⌨️
 * 🎧 EARPHONE: 7hz Salnotes Zero
