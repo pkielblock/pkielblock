@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* ▶️ I'm Pedro, a back-end developer. Currently Systems Analyst @ ReTHINKINGWorks!
+* ▶️ I'm Pedro, a back-end developer. Currently Systems Analyst @ ReThinkingWorks!
 
 ## About Me 🧑🏻‍💻
 * 🎓 Technical in Systems Development and Graduated in Analysis and Systems Development.
