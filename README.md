@@ -10,7 +10,7 @@
   
   ```css
   pedro@kielblockdev
-  --------------------
+  -------------------
   Name: pedro
   OS: Arch Linux x86_64
   Stack: ["Java", "Springboot", "Angular"]
