@@ -13,7 +13,7 @@
   -------------------
   Name: pedro
   OS: Arch Linux x86_64
-  Stack: ["Java", "Springboot", "Angular"]
+  Stack: ["Java", "Spring Boot", "Angular"]
   Interests: ["Tech", "Gaming", "Music"]
   Uptime: 21 Years
   ```
