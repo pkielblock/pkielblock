@@ -15,7 +15,7 @@
   OS: Arch Linux x86_64
   Stack: ["Java", "Spring Boot", "Angular"]
   Interests: ["Tech", "Gaming", "Music"]
-  Uptime: 21 Years
+  Uptime: 22 Years
   ```
 </div>
 
