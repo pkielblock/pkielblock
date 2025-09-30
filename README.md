@@ -12,7 +12,7 @@
   pedro@kielblockdev
   -------------------
   Name: pedro
-  OS: macOS ARM
+  OS: macOS Apple_Silicon
   Stack: ["Java", "Spring Boot", "Angular"]
   Interests: ["Tech", "Gaming", "Music"]
   Uptime: 22 Years
