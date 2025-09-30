@@ -12,7 +12,7 @@
   pedro@kielblockdev
   -------------------
   Name: pedro
-  OS: Arch Linux x86_64
+  OS: macOS ARM
   Stack: ["Java", "Spring Boot", "Angular"]
   Interests: ["Tech", "Gaming", "Music"]
   Uptime: 22 Years
