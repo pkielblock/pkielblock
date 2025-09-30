@@ -6,7 +6,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_whgite.svg" border="0" style="width:140px;">
   
   ```css
   pedro@kielblockdev
